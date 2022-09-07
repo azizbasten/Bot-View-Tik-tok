@@ -1,9 +1,15 @@
 Remember yak gaes :
+
 Download Rar here and extract the rar
+
 Install requirements.txt by typing pip install -r requirements.txt in Command Prompt
+
 Download Google Chrome
+
 Download a Chrome driver that matches your Chrome version. Download a chromedriver here.
+
 You must download the correct chromedriver that matches your Chrome version. Check out your version here.
+
 
 Please note
 
